@@ -2,7 +2,7 @@
 title: "Almond Yields"
 author: "Ben Versteeg, Hope Hahn"
 output: html_document
-date: "2024-04-09"
+date: "2024-04-12"
 ---
 
 ```{r setup, include=FALSE}
@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Goal:
 Implement a simple model of almond yield anomaly response to climate
 Inputs: daily times series of minimum, maximum daily temperatures and precipitation
-Outputs: maximum, minimum and mean yield anomoly for a input time series
+Outputs: maximum, minimum and mean yield anomaly for a input time series
 
 
 Tasks:
